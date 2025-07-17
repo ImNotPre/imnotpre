@@ -2,6 +2,9 @@
 
 ## cute cat girl
 
+I love Hatsune Miku
+初音ミクが大好きです
+
 <!--
 **ImNotPre/imnotpre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
