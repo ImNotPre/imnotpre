@@ -1,6 +1,6 @@
-## cute cat girl
+<img src="miku.webp">
 
-<img src="miku.png">
+## cute cat girl
 
 <!--
 **ImNotPre/imnotpre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
