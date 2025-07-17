@@ -1,4 +1,6 @@
-## Hi there 👋
+## cute cat girl
+
+<img src="miku.png">
 
 <!--
 **ImNotPre/imnotpre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+no github I will not be using these
+
+grrr
+
 -->
